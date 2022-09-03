@@ -58861,7 +58861,7 @@ s=A.jo(A.dZ(A.aK(l,A.aau(A.bp("It's me, Asutosh",1,l,l,A.cx(A.au(b).at,l,l,B.O,l
 r=A.b6(l,30,l)
 q=A.bf(new A.bt(0.2,0.6,B.B),A.b(m.d,k),l)
 p=A.bf(new A.bt(0.3,0.7,B.B),A.b(m.d,k),l)
-q=A.jo(A.dZ(A.aK(l,A.bp("I am a software developer specializing in building beautiful, responsive flutter applications for android, ios, and the web. Curious Tech enthusiast. Building good tech for the community with the community.",l,l,l,A.cx(A.au(b).at,l,13,B.r,l,1.34,1,0.4),B.k2,l),B.k,l,l,l,l,l,l,l,l,l,j*0.86),p),new A.ax(q,new A.aj(new A.v(0,1),new A.v(0,0),h),f),l,!0)
+q=A.jo(A.dZ(A.aK(l,A.bp("I am a software developer specializing in building beautiful, responsive flutter applications for android, ios, and the web. Curious Tech enthusiast. Building good tech for the community with the community.",l,l,l,A.cx(A.au(b).at,l,11,B.r,l,1.34,0.7,0.25),B.k2,l),B.k,l,l,l,l,l,l,l,l,l,j*0.86),p),new A.ax(q,new A.aj(new A.v(0,1),new A.v(0,0),h),f),l,!0)
 p=A.b6(l,30,l)
 o=A.bf(new A.bt(0.3,0.7,B.B),A.b(m.d,k),l)
 n=A.bf(new A.bt(0.4,0.8,B.B),A.b(m.d,k),l)
@@ -58895,7 +58895,7 @@ return A.P($async$bV,r)},
 H(a,b){return new A.j_(new A.W5(this,b.X(t.w).f.a.a),A.jw(this.c,0,null),B.bb,null)}}
 A.W5.prototype={
 $2(a,b){var s=null,r=this.a,q=A.cY(20),p=A.PH(A.au(a).at,1.2)
-return A.lZ(s,A.aK(s,new A.bW(B.z_,A.bX(A.a([A.uU(r.e,A.au(a).at,s,20,s),A.b6(s,s,15),A.bp(r.d,s,s,s,A.cx(A.au(a).at,s,15,B.O,s,s,1,s),s,s)],t.p),B.u,B.v,B.z),s),B.k,s,s,new A.bT(B.G,s,p,q,s,s,s,B.J),s,s,s,s,s,s,this.b*0.44),B.V,!1,s,s,s,s,s,s,s,s,s,s,new A.W4(r,b),s,s,s,s,s,s)},
+return A.lZ(s,A.aK(s,new A.bW(B.z_,A.bX(A.a([A.uU(r.e,A.au(a).at,s,20,s),A.b6(s,s,18),A.bp(r.d,s,s,s,A.cx(A.au(a).at,s,15,B.O,s,s,1,s),s,s)],t.p),B.u,B.v,B.z),s),B.k,s,s,new A.bT(B.G,s,p,q,s,s,s,B.J),s,s,s,s,s,s,this.b*0.44),B.V,!1,s,s,s,s,s,s,s,s,s,s,new A.W4(r,b),s,s,s,s,s,s)},
 $S:86}
 A.W4.prototype={
 $0(){var s=this.a
